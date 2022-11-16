@@ -1,0 +1,12 @@
+[submodule "spoke"]
+	path = spoke
+	url = https://gitlab.com/mozilla-hubs/spoke.git
+[submodule "hubs"]
+	path = hubs
+	url = https://gitlab.com/mozilla-hubs/hubs.git
+[submodule "reticulum"]
+	path = reticulum
+	url = https://gitlab.com/mozilla-hubs/reticulum.git
+[submodule "dialog"]
+	path = dialog
+	url = https://gitlab.com/mozilla-hubs/dialog.git
