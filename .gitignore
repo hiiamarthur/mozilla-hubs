@@ -1,7 +1,7 @@
 hubs
 dialog
 reticulum
-Spoke
+# Spoke
 tmp
 jwt.conf
 proxy.env
